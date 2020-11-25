@@ -1,0 +1,30 @@
+1) Criar o template do projeto
+- [X] Crie uma pasta no seu computador chamada "site-turismo"
+- [X] Abra a pasta "site-turismo" no Visual Studio Code
+- [X] Dentro da pasta "site-turismo" crie o arquivo "index.html"
+- [X] Dentro da pasta "site-turismo" crie as pastas "css" e "images"
+- [X] Dentro da pasta "css" crie o arquivo "estilos.css"
+- [X] Abra o trabalho "Site Pontos Turísticos - FEITO EM AULA"
+- [X] Faça o download do arquivo "images.zip" que está dentro do trabalho
+- [X] Extraia as imagens de dentro do arquivo "images.zip" e coloque dentro da pasta "site-turismo\images"
+- [X] Crie um repositório no github com o nome "site-turismo"
+
+2) [X] Wireframe do site
+
+3) [X]Levantar as tarefas a serem feitas no site
+1- Título
+2- Colocar cor verde de fundo
+3- Centralizar conteúdo
+4- Espaçamento dos itens do site
+5- Margens
+6- Conteúdo de cada indicação de ponto turístico
+7- Rodapé
+8- Links para mais detalhes de cada ponto
+9- Letra do título do site na cor branca
+10- Letra do títlo dos ponto na cor preta
+11- Fundo branco na indicação dos pontos
+12- Fundo verde na indicação de mais pontos
+13- Letra na cor preta na indicação de mais pontos
+
+
+
